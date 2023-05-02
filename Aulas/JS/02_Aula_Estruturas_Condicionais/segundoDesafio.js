@@ -11,10 +11,10 @@
     IMPRIMA NO CONSOLE O VALOR QUE SERÁ GASTO PRA REALIZAR ESTA VIAGEM
  */
 
-    const precoEtanol = 5.79;
-    const precoGasolina = 6.65;
-    const kmPorLitro = 10;    
-    const distanciaEmKm = 100;
+    const precoEtanol = 3.45;
+    const precoGasolina = 4.65;
+    const kmPorLitro = 15;    
+    const distanciaEmKm = 2100;
 
     /* Alterando para 'Gasolina' é alterado o resultado */
     const tipoCombustivel = 'Etanol'; 
