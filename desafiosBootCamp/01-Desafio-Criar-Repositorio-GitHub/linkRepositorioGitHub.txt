@@ -1,0 +1,6 @@
+link do Repositorio criado no desafio: https://github.com/tiagosfneves/repositorioEstudosDIO
+
+
+> repositorios já tem atualizações das aulas e lições JS;
+> prints de telas para facilitar entendimento;
+> commits via GitHub e Git (Repositório local);

@@ -1,0 +1,6 @@
+Mentoria - Criando páginas Web com HTML, CSS e JS
+link: https://web.dio.me/lives/criando-suas-primeiras-paginas-web-com-html-css-e-javascript?utm_source=potencia-tech-angular-developer-powered-ifood&utm_medium=email&utm_campaign=estamos-ao-vivo-20-04-2023
+
+Conteúdo:
+Nesta mentoria ao vivo, você irá aprender a montar um Curriculum Vitae Online utilizando apenas HTML e Github Pages.
+

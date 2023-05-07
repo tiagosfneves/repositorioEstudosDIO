@@ -1,0 +1,6 @@
+MANUAL GIT
+file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/git.html
+
+Minhas Anotações e Conclusões
+> git help git (abre o manual GIT no browser);
+
