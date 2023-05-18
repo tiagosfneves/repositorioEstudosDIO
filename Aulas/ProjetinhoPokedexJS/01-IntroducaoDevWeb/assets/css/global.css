@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif; /* Font vinda da API GOOGLE FONTS */
+}
+
+/*
+  Chamar font no CSS, pasta criada no assets;
+  Outra forma de personalizar fonte, só que organicamente;
+ 
+  @font-face {
+  font-family: 'Roboto', sans-serif;
+  src: url(../fonts/Roboto-Black.ttf);
+  }
+*/
+
+body {
+  background-color: #efefef;
+}
+
+.content {
+  height: 100vh;
+  width: 100vw;
+  padding: 1rem;
+  background-color: #f9f9f9;
+}
+
+@media screen and (win-width: 992px) {
+  .content {
+    max-width: 992px;
+    height: auto;
+    margin: 1rem auto;
+    border-radius: 1rem;
+  }
+}
+
