@@ -1,0 +1,49 @@
+# Configuração Necessária para
+OProjeto POKEDEX
+  
+  - node.js
+  -npm
+  -library
+   instalação: npm install -g http-server
+   executar: http-server
+
+## Comandos Terminal
+  - touch index.html (cria arq html)
+  - ctrl + p : ind... (faz busca na pesquisa)
+
+### Normalize CSS (cdn.js normalize)
+Link para colar no html, href do link.css:
+  - Vai zerar a margem no browser
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+PokeAPI, doc
+https://pokeapi.co/
+
+Link GitHub das imagens POKEMON
+https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/1.png
+
+
+outro
+https://pngfre.com/pokemon-png/
+
+outro, com nomes e dados 
+https://www.pokemon.com/br/
+
+um projeto da DIO parecido
+https://www.dio.me/articles/pokedex-com-pokeapi-biblioteca-de-imagens
+
+>git
+https://github.com/wellrccity/pokedex-html-js
+
+>>git imagens GIF pokemons
+https://github.com/wellrccity/pokedex-html-js/tree/master/assets/img/pokemons
+
+>>> OUTRO git imagens PNG pokemons
+https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/1.png
+
+
+MEDIA QUERY (responsive)
+https://www.w3schools.com/css/css3_mediaqueries_ex.asp
+
+

@@ -1,3 +1,11 @@
-Material das aulas disponíveis no GItHub no link:
+Material de apoio das aulas disponíveis no GItHub no link:
 https://github.com/digitalinnovationone/javascript-developer-m1
 
+Materiais De Apoio Dev WEB JS
+https://github.com/digitalinnovationone/js-developer-pokedex
+ 
+Dicas/Links Úteis
+ 
+Por fim, disponibilizamos alguns links úteis para que você possa se desenvolver ainda mais através de referências oficiais das tecnologias, páginas de documentação e/ou fóruns de discussão relevantes. Nesse contexto, seguem algumas sugestões:
+ 
+Mozilla Developer Network (MDN): https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web
